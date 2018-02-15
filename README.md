@@ -1,1 +1,1 @@
-# Sandwich Club Project Starter Code
+# Sandwich Club
